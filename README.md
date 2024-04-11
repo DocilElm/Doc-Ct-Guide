@@ -6,7 +6,7 @@
 
 # Setup
 For starters, we'll need something to code with; in this case, we'll be using [Visual Studio Code](https://code.visualstudio.com/).<br>
-Once we have [Visual Studio Code]((https://code.visualstudio.com/)) installed, we'll get the [Chattriggers extension](https://marketplace.visualstudio.com/items?itemName=maxssho13.chattriggers) to help us with auto-completion and documentation.
+Once we have [Visual Studio Code](https://code.visualstudio.com/) installed, we'll get the [Chattriggers extension](https://marketplace.visualstudio.com/items?itemName=maxssho13.chattriggers) to help us with auto-completion and documentation.
 
 # Documentation
 * [Chat Trigger](/trigger/Chat.md)
