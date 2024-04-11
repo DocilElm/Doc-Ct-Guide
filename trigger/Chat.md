@@ -47,3 +47,6 @@ A couple things to take into consideration:
 * Every capture group starts with ``${}`` and inside we define the name of this group.
 * Using ``${*}`` will match the criteria but the captured group wont be passed through.
 * You can also use regex as the criteria.
+
+> [!NOTE]
+> If the criteria does not have any matching groups it will return the Chat Event.
