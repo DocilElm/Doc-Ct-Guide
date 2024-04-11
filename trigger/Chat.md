@@ -46,4 +46,4 @@ As we can see, the criteria will return the matched groups for this event withou
 A couple things to take into consideration:
 * Every capture group starts with ``${}`` and inside we define the name of this group.
 * Using ``${*}`` will match the criteria but the captured group wont be passed through.
-* You can also use regex in the criteria.
+* You can also use regex as the criteria.
