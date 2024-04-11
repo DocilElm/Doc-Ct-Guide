@@ -1,4 +1,4 @@
-# ["Chat"](https://www.chattriggers.com/javadocs/-chat-triggers/com.chattriggers.ctjs.triggers/-chat-trigger/index.html) Trigger
+# [Chat](https://www.chattriggers.com/javadocs/-chat-triggers/com.chattriggers.ctjs.engine/-i-register/register-chat.html) Trigger
 This triggers the given function every time a chat message is recieved **(not client side)**.<br>
 if a criteria is set it'll only run whenever the chat message recieved matches said criteria.
 
