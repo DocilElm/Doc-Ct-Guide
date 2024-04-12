@@ -11,12 +11,16 @@ Once we have [Visual Studio Code](https://code.visualstudio.com/) installed, we
 > [!WARNING]
 > If you don't see a register that you want to look into, but it's in the slate, that means that the slate has enough information for it, thus not being necessary to essentially copy and paste it into here.
 
+> [!NOTE]
+> The [mcp.thiakil](https://mcp.thiakil.com/#/search) website is useful for mc mappings
+> To set this up you'll need to change the minecraft version top right to 1.8.9 stable version 22
+
 # Documentation
 * [Chat Trigger](/trigger/Chat.md)
 * [Actionbar Trigger](/trigger/Actionbar.md)
 * [RenderOverlay](/trigger/RenderOverlay.md)
 * [RenderWorld](/trigger/RenderWorld.md)
-* [TIck](/trigger/Tick.md)
+* [Tick](/trigger/Tick.md)
 * [Step](/trigger/Step.md)
 * [PacketRecieved](/trigger/PacketRecieved.md)
 * [PacketSent](/trigger/PacketSent.md)
