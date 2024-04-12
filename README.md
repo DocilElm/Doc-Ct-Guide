@@ -12,7 +12,7 @@ Once we have [Visual Studio Code](https://code.visualstudio.com/) installed, we
 > If you don't see a register that you want to look into, but it's in the slate, that means that the slate has enough information for it, thus not being necessary to essentially copy and paste it into here.
 
 > [!NOTE]
-> The [mcp.thiakil](https://mcp.thiakil.com/#/search) website is useful for mc mappings
+> The [mcp.thiakil](https://mcp.thiakil.com/#/search) website is useful for mc mappings<br>
 > To set this up you'll need to change the minecraft version top right to 1.8.9 stable version 22
 
 # Documentation
