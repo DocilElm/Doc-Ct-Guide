@@ -7,6 +7,7 @@ This will only recieve the event of the message.
 ```js
 register("chat", (event) => {
     ChatLib.chat(`chat event recieved: ${event}`)
+    // prints the event into the chat
 })
 ```
 If we want to get the message recieved we'll have to get that ourselves **(this can be avoided by using criteria)**.<br>
@@ -29,6 +30,7 @@ register("chat", (event) => {
     const message = ChatLib.getChatMessage(event)
 
     ChatLib.chat(`message recieved from event: ${message}`)
+    // this will print "message recieved from event: [410] ➶ [MVP+] DocilElm: a" into the chat
 })
 ```
 
@@ -36,7 +38,9 @@ register("chat", (event) => {
 This will recieve any captured message from the criteria.
 ```js
 register("chat", (level, rank, name, message) => {
+    // This recieves "[410] ➶ [MVP+] DocilElm: a"
     ChatLib.chat(`chat message recieved: ${level} ${rank} ${name} ${message}`)
+    // prints: "chat message recieved: 410 MVP+ DocilElm a" into the chat
 }).setCriteria("${level} ${*}${rank}${name}: ${message}")
 ```
 > [!TIP]
