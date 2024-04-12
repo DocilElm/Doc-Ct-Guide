@@ -14,3 +14,5 @@ Once we have [Visual Studio Code](https://code.visualstudio.com/) installed, we
 # Documentation
 * [Chat Trigger](/trigger/Chat.md)
 * [Actionbar Trigger](/trigger/Actionbar.md)
+* [RenderOverlay](/trigger/RenderOverlay.md)
+* [RenderWorld](/trigger/RenderWorld.md)
