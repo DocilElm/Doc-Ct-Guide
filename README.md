@@ -18,3 +18,5 @@ Once we have [Visual Studio Code](https://code.visualstudio.com/) installed, we
 * [RenderWorld](/trigger/RenderWorld.md)
 * [TIck](/trigger/Tick.md)
 * [Step](/trigger/Step.md)
+* [PacketRecieved](/trigger/PacketRecieved.md)
+* [PacketSent](/trigger/PacketSent.md)
