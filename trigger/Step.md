@@ -25,7 +25,7 @@ register("step", () => {
     Scoreboard.getLines().forEach(line => {
         // Getting the name of the line (aka the text)
         // Then removing the formatting so we can actually
-        // check if with a string
+        // check it with a string
         const name = line.getName()?.removeFormatting()
 
         inHypixel = name.includes("www.hypixel")
