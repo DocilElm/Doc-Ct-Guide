@@ -51,7 +51,7 @@ class Settings {
         subcategory: "Category",
         placeholder: "Empty... :("
     })
-    textInput = ""; // This variable has the input
+    textInput = "test"; // This variable has the input
 
     // Make a color picker setting
     @ColorProperty({
