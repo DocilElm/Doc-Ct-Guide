@@ -24,3 +24,9 @@ Once we have [Visual Studio Code](https://code.visualstudio.com/) installed, we
 * [Step](/trigger/Step.md)
 * [PacketRecieved](/trigger/PacketRecieved.md)
 * [PacketSent](/trigger/PacketSent.md)
+
+# Libraries
+> [!NOTE]
+> These are kind of the most used on every [Chattriggers Module](https://www.chattriggers.com/modules).<br>
+> This should help you get started with either one of them.<br>
+* [Vigilance](/libraries/Vigilance.md)
