@@ -30,3 +30,7 @@ Once we have [Visual Studio Code](https://code.visualstudio.com/) installed, we
 > These are kind of the most used on every [Chattriggers Module](https://www.chattriggers.com/modules).<br>
 > This should help you get started with either one of them.<br>
 * [Vigilance](/libraries/Vigilance.md)
+
+# ASM Guides
+* [Chattriggers' Guide](https://github.com/ChatTriggers/ChatTriggers/wiki/ASM-Injection)
+* [Yedel's Guide](https://github.com/Yedelo/chattriggers-asm)
