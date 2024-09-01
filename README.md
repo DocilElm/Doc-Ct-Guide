@@ -29,6 +29,7 @@ Once we have [Visual Studio Code](https://code.visualstudio.com/) installed, we
 > [!NOTE]
 > These are kind of the most used on every [Chattriggers Module](https://www.chattriggers.com/modules).<br>
 > This should help you get started with either one of them.<br>
+* [Amaterasu](https://github.com/DocilElm/Amaterasu/blob/main/README.md)
 * [Vigilance](/libraries/Vigilance.md)
 
 # ASM Guides
