@@ -34,3 +34,6 @@ Once we have [Visual Studio Code](https://code.visualstudio.com/) installed, we
 # ASM Guides
 * [Chattriggers' Guide](https://github.com/ChatTriggers/ChatTriggers/wiki/ASM-Injection)
 * [Yedel's Guide](https://github.com/Yedelo/chattriggers-asm)
+
+# Misc
+* [Manually Installing Modules](/misc/ManualInstall.md)
